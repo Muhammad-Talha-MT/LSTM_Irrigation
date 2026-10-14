@@ -1,0 +1,55 @@
+{
+  "synthetic": true,
+  "python": "3.12.14",
+  "torch": "2.14.1+cpu",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "seeds": [
+    11,
+    22,
+    33
+  ],
+  "epochs_max": 65,
+  "elapsed_seconds": 76.09876847267151,
+  "train_source_farms": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "train_years": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "validation_years": [
+    6
+  ],
+  "test_years": [
+    7,
+    8
+  ],
+  "target_farms": [
+    8,
+    9
+  ],
+  "adaptation_years": [
+    0,
+    1
+  ],
+  "adaptation_validation_years": [
+    2
+  ],
+  "train_days_per_seed": 2880,
+  "history_days": 14,
+  "decision_days": 60,
+  "architecture": "Scheduler(\n  (lstm): LSTM(14, 24, batch_first=True)\n  (head): Sequential(\n    (0): Linear(in_features=44, out_features=32, bias=True)\n    (1): ReLU()\n    (2): Linear(in_features=32, out_features=2, bias=True)\n  )\n)",
+  "trainable_parameters": 5346
+}

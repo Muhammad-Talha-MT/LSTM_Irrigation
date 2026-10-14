@@ -1,0 +1,43 @@
+Training lstm seed=11 n=2880
+Training seasons_1 seed=11 n=480
+Training seasons_3 seed=11 n=1440
+Training history_7 seed=11 n=2880
+Training history_30 seed=11 n=2880
+Training mlp seed=11 n=2880
+Training augmented seed=11 n=2880
+Training head_tune_farm8 seed=11 n=120
+Training full_tune_farm8 seed=11 n=120
+Training scratch_farm8 seed=11 n=120
+Training head_tune_farm9 seed=11 n=120
+Training full_tune_farm9 seed=11 n=120
+Training scratch_farm9 seed=11 n=120
+Finished seed 11; elapsed 0.4 minutes
+Training lstm seed=22 n=2880
+Training seasons_1 seed=22 n=480
+Training seasons_3 seed=22 n=1440
+Training history_7 seed=22 n=2880
+Training history_30 seed=22 n=2880
+Training mlp seed=22 n=2880
+Training augmented seed=22 n=2880
+Training head_tune_farm8 seed=22 n=120
+Training full_tune_farm8 seed=22 n=120
+Training scratch_farm8 seed=22 n=120
+Training head_tune_farm9 seed=22 n=120
+Training full_tune_farm9 seed=22 n=120
+Training scratch_farm9 seed=22 n=120
+Finished seed 22; elapsed 0.8 minutes
+Training lstm seed=33 n=2880
+Training seasons_1 seed=33 n=480
+Training seasons_3 seed=33 n=1440
+Training history_7 seed=33 n=2880
+Training history_30 seed=33 n=2880
+Training mlp seed=33 n=2880
+Training augmented seed=33 n=2880
+Training head_tune_farm8 seed=33 n=120
+Training full_tune_farm8 seed=33 n=120
+Training scratch_farm8 seed=33 n=120
+Training head_tune_farm9 seed=33 n=120
+Training full_tune_farm9 seed=33 n=120
+Training scratch_farm9 seed=33 n=120
+Finished seed 33; elapsed 1.2 minutes
+COMPLETE

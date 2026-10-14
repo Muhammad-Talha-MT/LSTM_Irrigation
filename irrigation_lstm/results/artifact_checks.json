@@ -1,0 +1,7 @@
+{
+  "checkpoints": 39,
+  "test_prediction_rows": 37440,
+  "daily_rollout_rows": 76680,
+  "max_balance_residual_mm": 2.398081733190338e-14,
+  "all_rollouts_have_90_rows": true
+}

@@ -1,0 +1,9 @@
+{
+  "synthetic_checkpoint": true,
+  "probability_irrigation": 5.399166980168957e-08,
+  "raw_gross_depth_mm": 0.0,
+  "guarded_gross_depth_mm": 0.0,
+  "irrigation_today": false,
+  "warning": "Synthetic demonstration checkpoint; requires local field validation before operational use.",
+  "runtime_hours": 0.0
+}

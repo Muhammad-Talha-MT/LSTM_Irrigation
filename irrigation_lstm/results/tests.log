@@ -1,0 +1,12 @@
+test_balance_and_bounds (test_core.Tests.test_balance_and_bounds) ... ok
+test_calendar_and_sequence_causality (test_core.Tests.test_calendar_and_sequence_causality) ... ok
+test_checkpoint_roundtrip_and_training (test_core.Tests.test_checkpoint_roundtrip_and_training) ... ok
+test_replay_really_overrides (test_core.Tests.test_replay_really_overrides) ... ok
+test_scaler_uses_only_supplied_training (test_core.Tests.test_scaler_uses_only_supplied_training) ... ok
+test_storm_is_unforecast_and_observed (test_core.Tests.test_storm_is_unforecast_and_observed) ... ok
+test_wet_guard (test_core.Tests.test_wet_guard) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 1.145s
+
+OK
