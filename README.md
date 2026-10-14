@@ -112,11 +112,3 @@ To regenerate the included outputs in place, omit `--output rerun` and use
 - Source and target closed-loop tables use separate cohorts; transfer-only
   methods must not be compared with an all-farms average.
 
-## Provenance
-
-Created for the supplied irrigation/LSTM question using generated data and an
-explicit heuristic teacher. No real farm records, weather archives, pretrained
-agricultural models or private datasets were used. FAO-56 informs the water
-storage definitions, not the particular synthetic parameters or empirical
-results. See `docs/METHODS.md` for references. AI assistance was used with the
-user's stated permission from the professor.
